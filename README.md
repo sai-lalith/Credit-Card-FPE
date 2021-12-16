@@ -1,6 +1,6 @@
 # Credit-Card-FPE
 ## Simple credit card system using pycryptodome, sockets, pickle 
-## Abstract
+# Abstract
 Format Preserving Encryption (FPE) schemes encrypt a plaintext into a
 
 ciphertext while preserving its format (e.g., a valid credit card number is en-
@@ -12,4 +12,8 @@ preserving both plaintext format and privacy. we implemented a simple credit
 card processing system using FF3-1 format preserving encryption scheme based
 on recent 2019 NIST standards in python.
 
-Refer the Report for more techincal survey
+# Future work to be done
+
+Refer the Report.pdf for more techincal survey
+
+We hope to make the ff3-1 an opensource library with more flexibilty and a code optimization
